@@ -1,2 +1,2 @@
 # DailyTask
- command line tool for managing daily tasks
+ an command line tool for managing daily tasks
